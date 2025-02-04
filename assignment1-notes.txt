@@ -1,0 +1,45 @@
+Introduction to Business Analytics - Notes
+1. What is Business Analytics?
+Business Analytics (BA) refers to the practice of using data analysis, statistical models, and machine learning techniques to make data-driven business decisions. It helps organizations identify trends, optimize operations, and gain a competitive advantage.
+
+2. Key Components of Business Analytics
+Descriptive Analytics – Summarizes historical data to understand what has happened. (e.g., sales reports, KPI dashboards)
+Diagnostic Analytics – Examines past data to determine why something happened. (e.g., identifying reasons for sales drop)
+Predictive Analytics – Uses statistical models and machine learning to forecast future trends. (e.g., demand forecasting)
+Prescriptive Analytics – Provides recommendations for decision-making using optimization techniques. (e.g., inventory management solutions)
+3. Importance of Business Analytics
+Helps in better decision-making based on data insights.
+Increases efficiency and productivity in operations.
+Identifies market trends and customer behavior.
+Helps in risk management and fraud detection.
+4. Business Analytics Process
+Define the Problem – Identify business challenges and objectives.
+Collect Data – Gather relevant structured and unstructured data.
+Process & Clean Data – Handle missing values, outliers, and inconsistencies.
+Analyze Data – Apply statistical models, machine learning, and visualization tools.
+Interpret and Communicate Results – Use dashboards, reports, and presentations to share insights.
+Make Data-Driven Decisions – Implement strategies based on analysis.
+5. Tools & Technologies in Business Analytics
+Excel – Basic data manipulation and visualization.
+SQL – Querying and managing structured data.
+Python & R – Advanced analytics and machine learning.
+Tableau & Power BI – Data visualization and dashboarding.
+Google Analytics – Web and digital analytics.
+SAP, SAS, IBM Cognos – Enterprise-level business intelligence tools.
+6. Applications of Business Analytics
+Marketing Analytics – Customer segmentation, campaign performance analysis.
+Financial Analytics – Fraud detection, investment analysis.
+Supply Chain Analytics – Demand forecasting, logistics optimization.
+Healthcare Analytics – Patient diagnosis, treatment optimization.
+Retail Analytics – Sales forecasting, customer recommendation systems.
+7. Challenges in Business Analytics
+Data Quality Issues – Incomplete, inconsistent, or incorrect data.
+Data Privacy & Security – Compliance with regulations like GDPR, HIPAA.
+Integration Complexity – Combining data from different sources.
+Lack of Skilled Workforce – Need for data scientists and analysts.
+Interpretability of AI Models – Making complex models explainable to stakeholders.
+8. Future Trends in Business Analytics
+Increasing use of AI and Machine Learning for automation.
+Growth in real-time analytics for faster decision-making.
+Adoption of cloud-based analytics platforms.
+Integration of Big Data and IoT into analytics.
